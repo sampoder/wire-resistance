@@ -1,0 +1,224 @@
+[meta title:"Wire Resistance" description:"Short description of your project" /]
+
+[Header
+  fullWidth:true
+
+   /]
+
+An electric current flows when electrons move through a material. The moving electrons can collide with the ions in the material. This makes it more difficult for the current to flow, and causes resistance. A material with less resistance is a material more suitable to conduct electricity. This report will be exploring how much resistance a piece of wire has, how that resistance changes with length and identifying its material based on our data.
+
+## Hypothesis
+
+I hypothesise that as the length of the wire increases, the resistance of the wire will increase linearly. I hypothesise this based on my research into resistivity. Resistivity is caused by the current's electrons colliding with the ions in the conducting material. With a longer wire, there will be more ions that the current's electrons must collide with. Therefore, a longer wire will have a greater resistance compared to a shorter wire. I predict that the relationship will be directly proportional, I believe this because each length of wire has a set amount of ions for collision meaning that as length increases the number of ions increases proportionally. As the ions for collision directly cause resistance, I, therefore, believe that the relationship between the length and resistance is proportional.
+
+A source that backs up this hypothesis is the BBC’s article [here](https://www.bbc.co.uk/bitesize/guides/zgvq4qt/revision/4), in which they find that “that the longer the piece of wire, the higher the resistance” as well as that the relationship between length and resistance is directly proportional.
+
+My hypothesis is testable, I know this because the concepts outlined here are very prominent in the physical world. Creating an experiment to test this would therefore need only a basic set of widely available materials. Additionally, the quantities required to calculate resistance are obtainable through basic experimental proceedings that can be done with a limited set of material typically present in a secondary school science labs. Resistance is a property that is rather easy to calculate as we only voltage and current, which can be measured in any circuit.
+
+## Calculations
+
+There were many calculations used to produce the below data. They are listed below.
+
+[Equation]Resistance = \frac{Voltage}{Current}[/Equation]
+
+[br /]
+
+[br /]
+
+[Equation]Resistivity = \frac{Resistance \times Area}{Length \; (Meters)}[/Equation]
+
+[br /]
+
+[br /]
+
+[Equation]Circle \; Area = \pi \left(\frac{d}{2}\right)^2[/Equation]
+
+[br /]
+
+[br /]
+
+## Raw Data
+
+[ProcessedTable /]
+
+## Patterns
+
+My data shows that as the length of the wire increases, so does the resistance of the wire. The relationship between the two is shown through Figure 2 to be directly proportional with a reasonable amount of error (likely caused by issues in data collection).
+
+Resistance occurs as the electrons of the electric current flow through the conductor, they then collide with the fixed ions and atoms in the conductor which causes resistance. With this knowledge in mind, we can infer that our data has been caused by a longer wire having more ions and atoms to collide with before reaching the end of a wire.
+
+Another source that suggests this is Britiannica’s article [here](https://www.britannica.com/technology/resistance-electronics), which states that “the resistance of a wire is directly proportional to its length” and that “resistance involves collisions of the current-carrying charged particles with fixed particles that make up the structure of the conductors”. Furthermore, this [lesson by the PhysicsClassroom](https://www.physicsclassroom.com/class/circuits/Lesson-3/Resistance), describes the relationship as “the longer the wire, the more resistance that there will be” and that the relationship is “direct”.
+
+Additionally, my data suggests that the metal wire used is Nichrome Alloy this is based on the average resistivity calculated using the data collected. The average resistivity calculated was [Equation]1.66 \times {10^{-6}}[/Equation], which is very close to Nichrome Alloy's resistivity value of [Equation]1.6 \times {10^{-6}}[/Equation]. We can therefore assume that this material is Nichrome Alloy and the slight variation is caused by human error.
+
+In Figure 3, we can observe that when Resistance times Length is plotted over length (in meters) the gradient of that graph's trendline is [Equation]1.66 \times {10^{-6}}[/Equation]. Our calculated resistivity was [Equation]1.66 \times {10^{-6}}[/Equation]. These two numbers are equal, which shows that the gradient of this graph is equivalent to the resistivity of the wire. This relationship is logical as the equations used to calculate them are equivalent.
+
+With the above in mind, we can use Figure 3 to analyse the reliability of our data. As we can see the line does fluctuate around the trend line provided. Specifically, there are fluctuations in the data at 20, 40 & 80cm. These are very slight fluctuations but they do show that our data was not fully reliable, which is likely caused by basic human error. Such human error could potentially be an error in measurement, an error in setting up the experiment. The fluctuations are not great enough to suggest that there was a calculation error. Further reasoning behind such fluctuations shall be provided in the below evaluation. The very small fluctuations do not damage the integrity of this experiment’s results and the general patterns identified.
+
+## Evaluating My Hypothesis
+
+I predicted that “as the length of the wire increases, the resistance of the wire will increase linearly”. This prediction proved to be largely true as shown in Figure 2. In Figure 2, we can see that the trendline that fits the data is linear. The data points have slight discrepancies from the trendline, as discussed in the `Patterns` section of this report. This is likely due to the imperfect manner in which data was collected.
+
+In my hypothesis, I predicted that the relationship would be directly proportional. Figure 2 shows this to be true as we can see that the trendline is linear. There are small discrepancies along the line, their are many possible reasons for this. 
+
+Scientific reasoning for such a pattern being observed as well as two sources that back up those claims have been provided in the `Patterns` section of this report.
+
+## Evaluating My Method
+
+The method used in this experiment allowed me to answer the research question, I believe this as the graphs produced identify a very clear pattern that as the length of the wire increases, so does the resistance of the wire.
+
+Some strengths in the method were:
+
+- the speed at which the experiment could be done. This is a major benefit as in a science class we have limited time available to us and we must make the most of this time.
+- it collected an appropriate set of data that would allow for further calculation. By collecting Voltage & Amperage we would then be able to perform a vast range of calculations that would enable further analysis.
+
+Some limitations of the method were that:
+
+- by having the wire taped to a measuring ruler only at the ends meant that it was challenging to reduce the deformation of the wire and bending of the wire. This is an issue as it meant that our length measurements were not accurate and the true lengths would have been slightly shorter.
+- the voltmeter and the ammeter did not provide a degree of accuracy adequate for the complex calculations. The analogue devices used in the experiment had a hand that matched a printed number. With this method, we could get at most two decimal places of accuracy, though the second could be inaccurate.
+- the independent variables were not clearly defined. Whilst many may feel that these variables are “common sense” they are also crucial to the success of the experiment. If these independent variables are changed by the performers of the experiment, things could go wrong with the experiment.
+
+When performing this experiment, I found it tough to read the voltmeter and ammeter accurately as the gauge was fluctuating in the decimal point region. This affected my data as it could have caused slight inaccuracies.
+
+Overall, if I was to test the same problem again I would use the same principles as this method with slight modifications that I will outline in the section below.
+
+## Improving My Method
+
+After performing my evaluation, I have identified the following set of improvements that could be made to improve the method used. To improve the experiment I would:
+
+- switch to the use of a digital multimeter with multiple inputs. This would provide us with more accurate statistics in terms of the voltage and the current of the circuit. This would eliminate any issues interpreting the analogue devices. This is important in an experiment such as this one as we must handle incredibly fine numbers in our calculations. It is evident in our above dataset that slight deviations can cause major inaccuracies.
+- ensure that tape is taped down at increments of 10cm starting at 5cm. This will mean that the wire is more secure on the ruler and that our lengths measurements will be more accurate due to the issues outlined in the evaluation of the method.
+- outline the following independent variables: temperature of the room (temperature has been shown to affect the resistance), the wire used (wires have different resistivities), the need to use the same measuring equipment (different equipment is calibrated differently and one should be used to maintain accuracy).
+
+This experiment made me consider another question: what effect does temperature have on resistance? I would like to know more about this as I live in Singapore and have observed that a limited set of cheaper devices do not work in the outdoors where it is hotter. I could test this by creating a controlled environment where the temperature can be modified and then placing a similar circuit to this experiment's circuit in that controlled environment. I would then monitor the resistance through a multimeter as the temperature is changed.
+
+[var name:"x" value:0 /]
+
+## Introduction
+
+This is an Idyll post. It is generated via
+the file `index.idyll`. To compile this post using
+idyll, run the command `idyll` inside of this directory.
+
+
+Idyll posts are designed to support interaction and
+data-driven graphics.
+
+[var name:"state" value:0 /]
+[CustomD3Component className:"d3-component" state:state /]
+[button onClick:`state++`]
+  Click Me.
+[/button]
+
+Configuration can be done via the `idyll` field in `package.json`.
+
+## Markup
+
+Idyll is based on Markdown.
+
+You can use familiar syntax
+to create **bold** (`**bold**` ) and *italic* (`*italic*` ) styles,
+
+* lists
+* of
+* items,
+
+```
+* lists
+* of
+* items,
+```
+
+1. and numbered
+2. lists
+3. of items,
+
+
+```
+1. and numbered
+2. lists
+3. of items,
+```
+
+in addition to [hyperlinks](https://idyll-lang.org) and images:
+
+![quill](static/images/quill.svg)
+
+```
+![quill](static/images/quill.svg)
+```
+
+## Components
+
+Components can be embedded using a bracket syntax:
+
+```
+[Range /]
+```
+
+and can contain nested content:
+
+```
+[Equation]e = mc^{2}[/Equation]
+```
+
+Components accept properties:
+
+```
+[Range value:x min:0 max:1 /]
+```
+
+that can be bound to variables to achieve interactivity (more in next section).
+
+
+A variety of components are included by default. See [all the available components](https://idyll-lang.org/docs/components/). You can also use any html tag, for example: `[div] A div! [/div]`.
+
+To create your own, add it to the `components/` folder. There are examples of how to use Idyll with React and D3 based components already included.
+
+
+
+## Interactivity
+
+Here is how you can instantiate a variable and bind it to a component:
+
+[var name:"exampleVar" value:5 /]
+
+[Range min:0 max:10 value:exampleVar /]
+[Display value:exampleVar /]
+
+```
+[var name:"exampleVar" value:5 /]
+
+[Range min:0 max:10 value:exampleVar /]
+[Display value:exampleVar /]
+```
+
+## Learn More
+
+To learn more see the documentation at [https://idyll-lang.org/docs/](https://idyll-lang.org/docs/),
+join our [chatroom](https://gitter.im/idyll-lang/Lobby), or see the project on [GitHub](https://github.com/idyll-lang/idyll).
+
+[hr /]
+
+# Technical Details
+
+## Installation
+
+- Make sure you have `idyll` installed (`npm i -g idyll`).
+- Clone this repo and run `npm install`.
+
+## Developing a post locally
+
+Run `idyll`.
+
+## Building a post for production
+
+Run `idyll build`. The output will appear in the top-level `build` folder. To change the output location, change the `output` option in `package.json`.
+
+## Deploying
+
+Make sure your post has been built, then deploy the docs folder via any static hosting service.
+
+## Dependencies
+
+You can install custom dependencies by running `npm install <package-name> --save`. Note that any collaborators will also need download the package locally by running `npm install` after pulling the changes.
