@@ -500,3 +500,9 @@ background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox=
   display: table-cell;
   padding: 8px;
 }
+
+strong {
+  font-weight: 400;
+  background-color: #FFFAB4;
+  border-radius: 8px;
+}

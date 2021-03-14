@@ -124,3 +124,8 @@
     font-display: swap;
 }
 
+strong {
+    font-weight: 400;
+    background-color: #FFFAB4;
+    border-radius: 8px;
+}

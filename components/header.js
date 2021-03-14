@@ -12,7 +12,7 @@ export default () => (
       <h1 class="hed" style={{ fontWeight: "800", marginBlockEnd: "0.2em" }}>
         Resistance of <span className="glow">Wire</span>
       </h1>
-      <div class="byline" style={{ fontWeight: "400" }}>
+      <div class="byline" style={{ fontWeight: "400", display: 'none' }}>
         An interactive exploration by Sam Poder (G10.3)
       </div>
     </div>
