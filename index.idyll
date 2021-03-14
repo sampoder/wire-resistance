@@ -18,7 +18,6 @@ A source that backs up this hypothesis is the BBC’s article [here](https://www
 
 There were many calculations used to produce the below data. They are listed below with samples on the right.
 
-
 [Float position:"left"]
 
 [Equation]Resistance = \frac{Voltage}{Current}[/Equation]
@@ -165,3 +164,19 @@ After performing my evaluation, I have identified the following set of improveme
 - [strong]outline the following independent variables[/strong]: temperature of the room (temperature has been shown to affect the resistance, view above for complete scientific reasoning), the wire used (wires have different resistivities as shown through the test and the table of resistivities in the background information), the need to use the same measuring equipment (different equipment is calibrated differently and one should be used to maintain accuracy throughout).
 
 This experiment made me consider another question: [strong]what effect does temperature have on resistance?[/strong] I would like to know more about this as I live in Singapore and have observed that a limited set of cheaper devices do not work in the outdoors where it is hotter. I could test this by creating a controlled environment where the temperature can be modified and then placing a similar circuit to this experiment's circuit in that controlled environment. I would then monitor the resistance through a multimeter as the temperature is changed.
+
+## Data Playground
+
+[var name:"myVar" value:10 /]
+
+Change the length of the wire, find the resistance of the wire:  
+
+[Length value:myVar label:radioVal /]  
+
+[Range value:myVar min:0 max:1000 /]
+
+Or use a different material:
+
+[var name:"radioVal" value:"This Experiment's" /]
+
+[Radio value:radioVal options:`["This Experiment's", "Nichrome Alloy", "Lead", "Iron", "Tungsten", "Aluminium", "Gold", "Copper", "Silver"]`  /]
