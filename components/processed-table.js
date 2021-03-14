@@ -375,13 +375,11 @@ const App = () => (
           title: "Length (cm)",
         },
         vAxis: {
-          title: "Average Resistance in Ohms",
+          title: "Average Resistance (Ohms)",
         },
         trendlines: {
           0: {
             type: "linear",
-            showR2: true,
-            visibleInLegend: true,
           },
           1: {},
         },
@@ -390,7 +388,7 @@ const App = () => (
       }}
       rootProps={{ "data-testid": "2" }}
     />
-    <h4>Resistance time Area Over Length (Figure 3)</h4>
+    <h4>Resistance times Area Over Length (Figure 3)</h4>
     <Chart
       width={"600px"}
       height={"400px"}
@@ -405,7 +403,7 @@ const App = () => (
           title: "Length (m)",
         },
         vAxis: {
-          title: "Resistance (Ohms) time Area (Meters Squared)",
+          title: "Resistance (Ohms) times Area (Meters Squared)",
         },
         chartArea: { width: "55%", height: "80%" },
         legend: { position: "right" },
